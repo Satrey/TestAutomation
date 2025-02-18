@@ -26,3 +26,60 @@
 # fun = lambda x : 1 if x == 1 else math.ceil(math.sinh(fun (x-1)))
 # print(fun(5))
 
+
+# values = [20, 30, 50, 40, 10]
+# values.sort()
+# squared = {x: x**2 for x in values}
+# print(squared)
+# squared.setdefault(50, 2500)
+# print(squared[50])
+
+
+# def process(input_string: str) -> str:
+#     A = 0
+#     B = 0
+#     C = 0
+
+#     lst = input_string.split(" ")
+#     for temp in lst:
+#         if int(temp) > 0:
+#             A += 1
+#         elif int(temp) == 0:
+#             B += 1
+#         elif int(temp) < 0:
+#             C += 1
+#     return f"выше нуля: {A}, ниже нуля: {C}, равна нулю: {B}"
+
+
+# input_string = input()
+# output_string = process(input_string)
+# print(output_string)
+
+
+# def check_all_students_passed(scores_input: str, names_input: str) -> str:
+#     students_dict = {}
+#     score_list = []
+#     students_list = []
+#     for score in scores_input.split(","):
+#         score_list.append(score)
+#     for i, name in enumerate(names_input.split(",")):
+#         students_dict[name] = score_list[i]
+#     for key, value in students_dict.items():
+#         if int(value) < 35:
+#             students_list.append(key)
+#         else:
+#             continue
+#     if len(students_list) == 0:
+#         return "Все прошли!"
+#     else:
+#         return f"Есть не поступившие! \n {students_list}"
+
+
+# # scores_input = input()
+# # names_input = input()
+
+# scores_input = "21, 40, 27"
+# names_input = "Max, Alex, Brenden"
+
+# result = check_all_students_passed(scores_input, names_input)
+# print(result)

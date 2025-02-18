@@ -1,0 +1,1701 @@
+[
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "socketio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "socketio",
+        "description": "socketio",
+        "detail": "socketio",
+        "documentation": {}
+    },
+    {
+        "label": "uvicorn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.wait",
+        "description": "selenium.webdriver.support.wait",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.wait",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.wait",
+        "description": "selenium.webdriver.support.wait",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.wait",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.wait",
+        "description": "selenium.webdriver.support.wait",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.wait",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.wait",
+        "description": "selenium.webdriver.support.wait",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.wait",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.wait",
+        "description": "selenium.webdriver.support.wait",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.wait",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "base.base_class",
+        "description": "base.base_class",
+        "isExtraImport": true,
+        "detail": "base.base_class",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "Keys",
+        "importPath": "selenium.webdriver.common.keys",
+        "description": "selenium.webdriver.common.keys",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.keys",
+        "documentation": {}
+    },
+    {
+        "label": "Keys",
+        "importPath": "selenium.webdriver.common.keys",
+        "description": "selenium.webdriver.common.keys",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.keys",
+        "documentation": {}
+    },
+    {
+        "label": "Keys",
+        "importPath": "selenium.webdriver.common.keys",
+        "description": "selenium.webdriver.common.keys",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.keys",
+        "documentation": {}
+    },
+    {
+        "label": "Keys",
+        "importPath": "selenium.webdriver.common.keys",
+        "description": "selenium.webdriver.common.keys",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.keys",
+        "documentation": {}
+    },
+    {
+        "label": "pages.login_page",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pages.login_page",
+        "description": "pages.login_page",
+        "detail": "pages.login_page",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "ActionChains",
+        "importPath": "selenium.webdriver.common.action_chains",
+        "description": "selenium.webdriver.common.action_chains",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.action_chains",
+        "documentation": {}
+    },
+    {
+        "label": "ActionChains",
+        "importPath": "selenium.webdriver.common.action_chains",
+        "description": "selenium.webdriver.common.action_chains",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.action_chains",
+        "documentation": {}
+    },
+    {
+        "label": "ActionChains",
+        "importPath": "selenium.webdriver.common.action_chains",
+        "description": "selenium.webdriver.common.action_chains",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.action_chains",
+        "documentation": {}
+    },
+    {
+        "label": "Select",
+        "importPath": "selenium.webdriver.support.select",
+        "description": "selenium.webdriver.support.select",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.select",
+        "documentation": {}
+    },
+    {
+        "label": "Faker",
+        "importPath": "faker",
+        "description": "faker",
+        "isExtraImport": true,
+        "detail": "faker",
+        "documentation": {}
+    },
+    {
+        "label": "product",
+        "importPath": "itertools",
+        "description": "itertools",
+        "isExtraImport": true,
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "users",
+        "kind": 5,
+        "importPath": "PythonProCource.dictionary",
+        "description": "PythonProCource.dictionary",
+        "peekOfCode": "users = [{'name': 'Todd', 'phone': '551-1414', 'email': 'todd@gmail.com'},\n         {'name': 'Helga', 'phone': '555-1618'},\n         {'name': 'Olivia', 'phone': '449-3141', 'email': ''},\n         {'name': 'LJ', 'phone': '555-2718', 'email': 'lj@gmail.net'},\n         {'name': 'Ruslan', 'phone': '422-145-9098', 'email': 'rus-lan.cha@yandex.ru'},\n         {'name': 'John', 'phone': '233-421-32', 'email': ''},\n         {'name': 'Lara', 'phone': '+7998-676-2532', 'email': 'g.lara89@gmail.com'},\n         {'name': 'Alina', 'phone': '+7948-799-2434'},\n         {'name': 'Robert', 'phone': '420-2011', 'email': ''},\n         {'name': 'Riyad', 'phone': '128-8890-128', 'email': 'r.mahrez@mail.net'},",
+        "detail": "PythonProCource.dictionary",
+        "documentation": {}
+    },
+    {
+        "label": "sorted_users",
+        "kind": 5,
+        "importPath": "PythonProCource.dictionary",
+        "description": "PythonProCource.dictionary",
+        "peekOfCode": "sorted_users = []\nfor user in users:\n    if 'email' not in user or user['email'] == '':\n        sorted_users.append(user['name'])\nfor user in sorted(sorted_users):\n    print(user, end=' ')",
+        "detail": "PythonProCource.dictionary",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "PythonProCource.fast_api_server",
+        "description": "PythonProCource.fast_api_server",
+        "peekOfCode": "app = FastAPI()\n# Создаём экземпляр сервера Socket.IO с поддержкой асинхронного режима\nsio = socketio.AsyncServer(async_mode='asgi')\n# Оборачиваем FastAPI в Socket.IO ASGI приложение\nsocket_app = socketio.ASGIApp(sio, app)\nusers_list = {}\n@sio.event\nasync def connect(sid, environ):\n    print(f\"Пользователь {sid} подключился\")\n    users_list[sid] = 0",
+        "detail": "PythonProCource.fast_api_server",
+        "documentation": {}
+    },
+    {
+        "label": "sio",
+        "kind": 5,
+        "importPath": "PythonProCource.fast_api_server",
+        "description": "PythonProCource.fast_api_server",
+        "peekOfCode": "sio = socketio.AsyncServer(async_mode='asgi')\n# Оборачиваем FastAPI в Socket.IO ASGI приложение\nsocket_app = socketio.ASGIApp(sio, app)\nusers_list = {}\n@sio.event\nasync def connect(sid, environ):\n    print(f\"Пользователь {sid} подключился\")\n    users_list[sid] = 0\n@sio.event\nasync def disconnect(sid):",
+        "detail": "PythonProCource.fast_api_server",
+        "documentation": {}
+    },
+    {
+        "label": "socket_app",
+        "kind": 5,
+        "importPath": "PythonProCource.fast_api_server",
+        "description": "PythonProCource.fast_api_server",
+        "peekOfCode": "socket_app = socketio.ASGIApp(sio, app)\nusers_list = {}\n@sio.event\nasync def connect(sid, environ):\n    print(f\"Пользователь {sid} подключился\")\n    users_list[sid] = 0\n@sio.event\nasync def disconnect(sid):\n    print(f\"Пользователь {sid} отключился\")\n    users_list.pop(sid)",
+        "detail": "PythonProCource.fast_api_server",
+        "documentation": {}
+    },
+    {
+        "label": "users_list",
+        "kind": 5,
+        "importPath": "PythonProCource.fast_api_server",
+        "description": "PythonProCource.fast_api_server",
+        "peekOfCode": "users_list = {}\n@sio.event\nasync def connect(sid, environ):\n    print(f\"Пользователь {sid} подключился\")\n    users_list[sid] = 0\n@sio.event\nasync def disconnect(sid):\n    print(f\"Пользователь {sid} отключился\")\n    users_list.pop(sid)\n@app.get(\"/\")",
+        "detail": "PythonProCource.fast_api_server",
+        "documentation": {}
+    },
+    {
+        "label": "sio",
+        "kind": 5,
+        "importPath": "PythonProCource.uvicorn_server",
+        "description": "PythonProCource.uvicorn_server",
+        "peekOfCode": "sio = socketio.AsyncServer(async_mode='asgi')\n# Создаем ASGI приложение и связываем его с Socket.IO\napp = socketio.ASGIApp(sio)\n# Обработчик события подключения\n@sio.event\nasync def connect(sid, environ):\n    print(f\"Клиент {sid} подключен\")\n# Обработчик события отключения\n@sio.event\nasync def disconnect(sid):",
+        "detail": "PythonProCource.uvicorn_server",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "PythonProCource.uvicorn_server",
+        "description": "PythonProCource.uvicorn_server",
+        "peekOfCode": "app = socketio.ASGIApp(sio)\n# Обработчик события подключения\n@sio.event\nasync def connect(sid, environ):\n    print(f\"Клиент {sid} подключен\")\n# Обработчик события отключения\n@sio.event\nasync def disconnect(sid):\n    print(f\"Клиент {sid} отключен\")\n# Запускаем сервер с помощью Uvicorn",
+        "detail": "PythonProCource.uvicorn_server",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 6,
+        "importPath": "SeleniumCource.AutomationProgect.base.base_class",
+        "description": "SeleniumCource.AutomationProgect.base.base_class",
+        "peekOfCode": "class Base:\n    \"\"\"Базовый класс, который содержит универсальные методы\"\"\"\n    def __init__(self, driver):\n        self.driver = driver",
+        "detail": "SeleniumCource.AutomationProgect.base.base_class",
+        "documentation": {}
+    },
+    {
+        "label": "LoginPage",
+        "kind": 6,
+        "importPath": "SeleniumCource.AutomationProgect.pages.login_page",
+        "description": "SeleniumCource.AutomationProgect.pages.login_page",
+        "peekOfCode": "class LoginPage(Base):\n    \"\"\"Класс для аутентификации пользователя в интернет магазине\"\"\"\n    def __init__(self, driver):\n        super.__init__(driver)\n    # URL тестируемой страницы\n    base_url = \"https://www.saucedemo.com/\"\n    # Локаторы спользуемые на странице\n    login = \"user_name\"\n    password = \"password\"\n    login_button = \"login_button\"",
+        "detail": "SeleniumCource.AutomationProgect.pages.login_page",
+        "documentation": {}
+    },
+    {
+        "label": "test_select_product",
+        "kind": 2,
+        "importPath": "SeleniumCource.AutomationProgect.tests.test_by_product",
+        "description": "SeleniumCource.AutomationProgect.tests.test_by_product",
+        "peekOfCode": "def test_select_product():\n    with webdriver.Chrome() as driver:\n        print(\"Start test\")\n        login_page = lp.LoginPage(driver)\n        login_page.autentification()",
+        "detail": "SeleniumCource.AutomationProgect.tests.test_by_product",
+        "documentation": {}
+    },
+    {
+        "label": "options",
+        "kind": 5,
+        "importPath": "SeleniumCource.check",
+        "description": "SeleniumCource.check",
+        "peekOfCode": "options = webdriver.ChromeOptions()\noptions.add_experimental_option('detach', True)\n# options.add_argument('--headless')\nwith webdriver.Chrome(options=options) as browser:\n    print('\\n************************************************')\n    print(f'Начало теста основного функционала магазина {time.time()}!!!')\n    print('************************************************\\n')\n    time.sleep(2)\n    print('\\n************************************************')\n    print('Тест успешно завершен!!!')",
+        "detail": "SeleniumCource.check",
+        "documentation": {}
+    },
+    {
+        "label": "login_site",
+        "kind": 2,
+        "importPath": "SeleniumCource.drop_down",
+        "description": "SeleniumCource.drop_down",
+        "peekOfCode": "def login_site(base_url: str, login: str, pwd: str):\n    # Открываем броузер\n    browser.get(base_url)\n    browser.maximize_window()\n    # Заполняем поле логин\n    field_login = browser.find_element(By.ID, \"user-name\")\n    field_login.send_keys(login)\n    # Заполняем поле пароль\n    field_password = browser.find_element(By.ID, \"password\")\n    field_password.send_keys(pwd)",
+        "detail": "SeleniumCource.drop_down",
+        "documentation": {}
+    },
+    {
+        "label": "sort_testing",
+        "kind": 2,
+        "importPath": "SeleniumCource.drop_down",
+        "description": "SeleniumCource.drop_down",
+        "peekOfCode": "def sort_testing(element):\n    select = Select(element)\n    for i, item in enumerate(select.options, start=1):\n        print(f'{i}. Выбор сортировки по - {item.text}')\n        select.select_by_visible_text(item.text)\n        time.sleep(5)\nwith webdriver.Chrome(options=options) as browser:\n    print('\\n************************************************')\n    print(f'Начало теста {datetime.datetime.now().time().strftime('%H:%M:%S')}')\n    print('************************************************\\n')",
+        "detail": "SeleniumCource.drop_down",
+        "documentation": {}
+    },
+    {
+        "label": "options",
+        "kind": 5,
+        "importPath": "SeleniumCource.drop_down",
+        "description": "SeleniumCource.drop_down",
+        "peekOfCode": "options = webdriver.ChromeOptions()\noptions.add_experimental_option('detach', True)\n# options.add_argument('--headless')\n# Учетные данные для входа в интернет магазиин\nbase_url = 'https://www.saucedemo.com/'\nlogin = 'standard_user'\npwd = 'secret_sauce'\n# URL страниц сайта\nhome_page = 'https://www.saucedemo.com/inventory.html'\n# elements = []",
+        "detail": "SeleniumCource.drop_down",
+        "documentation": {}
+    },
+    {
+        "label": "base_url",
+        "kind": 5,
+        "importPath": "SeleniumCource.drop_down",
+        "description": "SeleniumCource.drop_down",
+        "peekOfCode": "base_url = 'https://www.saucedemo.com/'\nlogin = 'standard_user'\npwd = 'secret_sauce'\n# URL страниц сайта\nhome_page = 'https://www.saucedemo.com/inventory.html'\n# elements = []\n# Функция аутентификации пользователя на сайте магазина\ndef login_site(base_url: str, login: str, pwd: str):\n    # Открываем броузер\n    browser.get(base_url)",
+        "detail": "SeleniumCource.drop_down",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 5,
+        "importPath": "SeleniumCource.drop_down",
+        "description": "SeleniumCource.drop_down",
+        "peekOfCode": "login = 'standard_user'\npwd = 'secret_sauce'\n# URL страниц сайта\nhome_page = 'https://www.saucedemo.com/inventory.html'\n# elements = []\n# Функция аутентификации пользователя на сайте магазина\ndef login_site(base_url: str, login: str, pwd: str):\n    # Открываем броузер\n    browser.get(base_url)\n    browser.maximize_window()",
+        "detail": "SeleniumCource.drop_down",
+        "documentation": {}
+    },
+    {
+        "label": "pwd",
+        "kind": 5,
+        "importPath": "SeleniumCource.drop_down",
+        "description": "SeleniumCource.drop_down",
+        "peekOfCode": "pwd = 'secret_sauce'\n# URL страниц сайта\nhome_page = 'https://www.saucedemo.com/inventory.html'\n# elements = []\n# Функция аутентификации пользователя на сайте магазина\ndef login_site(base_url: str, login: str, pwd: str):\n    # Открываем броузер\n    browser.get(base_url)\n    browser.maximize_window()\n    # Заполняем поле логин",
+        "detail": "SeleniumCource.drop_down",
+        "documentation": {}
+    },
+    {
+        "label": "home_page",
+        "kind": 5,
+        "importPath": "SeleniumCource.drop_down",
+        "description": "SeleniumCource.drop_down",
+        "peekOfCode": "home_page = 'https://www.saucedemo.com/inventory.html'\n# elements = []\n# Функция аутентификации пользователя на сайте магазина\ndef login_site(base_url: str, login: str, pwd: str):\n    # Открываем броузер\n    browser.get(base_url)\n    browser.maximize_window()\n    # Заполняем поле логин\n    field_login = browser.find_element(By.ID, \"user-name\")\n    field_login.send_keys(login)",
+        "detail": "SeleniumCource.drop_down",
+        "documentation": {}
+    },
+    {
+        "label": "faker",
+        "kind": 5,
+        "importPath": "SeleniumCource.faker_test",
+        "description": "SeleniumCource.faker_test",
+        "peekOfCode": "faker = Faker('ru_RU')\nmale_name_list = []\nfemale_name_list = []\nfor i in range(1, 6):\n    male_name_list.append(faker.name_male())\n    female_name_list.append(faker.name_female())\nfor name in male_name_list:\n    print(name)\nfor name in female_name_list:\n    print(name)",
+        "detail": "SeleniumCource.faker_test",
+        "documentation": {}
+    },
+    {
+        "label": "male_name_list",
+        "kind": 5,
+        "importPath": "SeleniumCource.faker_test",
+        "description": "SeleniumCource.faker_test",
+        "peekOfCode": "male_name_list = []\nfemale_name_list = []\nfor i in range(1, 6):\n    male_name_list.append(faker.name_male())\n    female_name_list.append(faker.name_female())\nfor name in male_name_list:\n    print(name)\nfor name in female_name_list:\n    print(name)",
+        "detail": "SeleniumCource.faker_test",
+        "documentation": {}
+    },
+    {
+        "label": "female_name_list",
+        "kind": 5,
+        "importPath": "SeleniumCource.faker_test",
+        "description": "SeleniumCource.faker_test",
+        "peekOfCode": "female_name_list = []\nfor i in range(1, 6):\n    male_name_list.append(faker.name_male())\n    female_name_list.append(faker.name_female())\nfor name in male_name_list:\n    print(name)\nfor name in female_name_list:\n    print(name)",
+        "detail": "SeleniumCource.faker_test",
+        "documentation": {}
+    },
+    {
+        "label": "options",
+        "kind": 5,
+        "importPath": "SeleniumCource.main",
+        "description": "SeleniumCource.main",
+        "peekOfCode": "options = webdriver.ChromeOptions()\noptions.add_experimental_option('detach', True)\n# options.add_argument('--headless')\nwith webdriver.Chrome(options=options) as browser:\n    # Учетные данные для входа в интернет магазиин\n    base_url = 'https://www.saucedemo.com/'\n    login = 'standard_user'\n    pwd = 'secret_sauce'\n    # Открываем броузер\n    browser.get(base_url)",
+        "detail": "SeleniumCource.main",
+        "documentation": {}
+    },
+    {
+        "label": "test_cart",
+        "kind": 2,
+        "importPath": "SeleniumCource.oop_1",
+        "description": "SeleniumCource.oop_1",
+        "peekOfCode": "def test_cart(num: int, items, text: str):\n    item_list = {}\n    for i, item in enumerate(items, start=1):\n        if i == num:\n            product_name = item.find_element(By.CLASS_NAME, \"inventory_item_name\")\n            product_price = item.find_element(By.CLASS_NAME, \"inventory_item_price\")\n            if text == \"Add to cart\":\n                item.find_element(By.TAG_NAME, \"button\").click()\n                print(\n                    f\"Добавили товар {product_name.text} с ценой {product_price.text} в корзину\"",
+        "detail": "SeleniumCource.oop_1",
+        "documentation": {}
+    },
+    {
+        "label": "input_product",
+        "kind": 2,
+        "importPath": "SeleniumCource.oop_1",
+        "description": "SeleniumCource.oop_1",
+        "peekOfCode": "def input_product(products):\n    print(\"Выберите номер товара, который хотите добавить в корзину!\")\n    for i, product in enumerate(products, start=1):\n        print(f\"{i}. {product.find_element(By.CLASS_NAME, 'inventory_item_name').text}\")\n    while True:\n        try:\n            product_number = int(input(\"Введите номер товара (1 - 6): \"))\n            if 1 <= product_number <= 6:\n                return product_number\n            else:",
+        "detail": "SeleniumCource.oop_1",
+        "documentation": {}
+    },
+    {
+        "label": "login_site",
+        "kind": 2,
+        "importPath": "SeleniumCource.oop_1",
+        "description": "SeleniumCource.oop_1",
+        "peekOfCode": "def login_site(base_url: str, login: str, pwd: str):\n    # Открываем броузер\n    browser.get(base_url)\n    browser.maximize_window()\n    # Заполняем поле логин\n    field_login = browser.find_element(By.ID, \"user-name\")\n    field_login.send_keys(login)\n    # Заполняем поле пароль\n    field_password = browser.find_element(By.ID, \"password\")\n    field_password.send_keys(pwd)",
+        "detail": "SeleniumCource.oop_1",
+        "documentation": {}
+    },
+    {
+        "label": "cart_total",
+        "kind": 2,
+        "importPath": "SeleniumCource.oop_1",
+        "description": "SeleniumCource.oop_1",
+        "peekOfCode": "def cart_total(products: dict):\n    cart_total = 0.0\n    for price in products.values():\n        cart_total += float(price)\n    return round(cart_total, 2)\n# Переменные\nproduct_add_cart = {}\nproduct_in_cart = {}\nproduct_in_summary = {}\ncart_amount = 2",
+        "detail": "SeleniumCource.oop_1",
+        "documentation": {}
+    },
+    {
+        "label": "options",
+        "kind": 5,
+        "importPath": "SeleniumCource.oop_1",
+        "description": "SeleniumCource.oop_1",
+        "peekOfCode": "options = webdriver.ChromeOptions()\noptions.add_experimental_option(\"detach\", True)\n# options.add_argument('--headless')\n# Функция добавления товаров в корзину и проверки товаров находящихся в корзине и summory\ndef test_cart(num: int, items, text: str):\n    item_list = {}\n    for i, item in enumerate(items, start=1):\n        if i == num:\n            product_name = item.find_element(By.CLASS_NAME, \"inventory_item_name\")\n            product_price = item.find_element(By.CLASS_NAME, \"inventory_item_price\")",
+        "detail": "SeleniumCource.oop_1",
+        "documentation": {}
+    },
+    {
+        "label": "product_add_cart",
+        "kind": 5,
+        "importPath": "SeleniumCource.oop_1",
+        "description": "SeleniumCource.oop_1",
+        "peekOfCode": "product_add_cart = {}\nproduct_in_cart = {}\nproduct_in_summary = {}\ncart_amount = 2\n# Учетные данные для входа в интернет магазиин\nbase_url = \"https://www.saucedemo.com/\"\nlogin = \"standard_user\"\npwd = \"secret_sauce\"\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:",
+        "detail": "SeleniumCource.oop_1",
+        "documentation": {}
+    },
+    {
+        "label": "product_in_cart",
+        "kind": 5,
+        "importPath": "SeleniumCource.oop_1",
+        "description": "SeleniumCource.oop_1",
+        "peekOfCode": "product_in_cart = {}\nproduct_in_summary = {}\ncart_amount = 2\n# Учетные данные для входа в интернет магазиин\nbase_url = \"https://www.saucedemo.com/\"\nlogin = \"standard_user\"\npwd = \"secret_sauce\"\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:\n    print(\"\\n************************************************\")",
+        "detail": "SeleniumCource.oop_1",
+        "documentation": {}
+    },
+    {
+        "label": "product_in_summary",
+        "kind": 5,
+        "importPath": "SeleniumCource.oop_1",
+        "description": "SeleniumCource.oop_1",
+        "peekOfCode": "product_in_summary = {}\ncart_amount = 2\n# Учетные данные для входа в интернет магазиин\nbase_url = \"https://www.saucedemo.com/\"\nlogin = \"standard_user\"\npwd = \"secret_sauce\"\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:\n    print(\"\\n************************************************\")\n    print(",
+        "detail": "SeleniumCource.oop_1",
+        "documentation": {}
+    },
+    {
+        "label": "cart_amount",
+        "kind": 5,
+        "importPath": "SeleniumCource.oop_1",
+        "description": "SeleniumCource.oop_1",
+        "peekOfCode": "cart_amount = 2\n# Учетные данные для входа в интернет магазиин\nbase_url = \"https://www.saucedemo.com/\"\nlogin = \"standard_user\"\npwd = \"secret_sauce\"\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:\n    print(\"\\n************************************************\")\n    print(\n        f\"Начало теста основного функционала магазина  {base_url} {",
+        "detail": "SeleniumCource.oop_1",
+        "documentation": {}
+    },
+    {
+        "label": "base_url",
+        "kind": 5,
+        "importPath": "SeleniumCource.oop_1",
+        "description": "SeleniumCource.oop_1",
+        "peekOfCode": "base_url = \"https://www.saucedemo.com/\"\nlogin = \"standard_user\"\npwd = \"secret_sauce\"\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:\n    print(\"\\n************************************************\")\n    print(\n        f\"Начало теста основного функционала магазина  {base_url} {\n            datetime.datetime.now().time().strftime('%H:%M:%S')\n        } !!!\"",
+        "detail": "SeleniumCource.oop_1",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 5,
+        "importPath": "SeleniumCource.oop_1",
+        "description": "SeleniumCource.oop_1",
+        "peekOfCode": "login = \"standard_user\"\npwd = \"secret_sauce\"\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:\n    print(\"\\n************************************************\")\n    print(\n        f\"Начало теста основного функционала магазина  {base_url} {\n            datetime.datetime.now().time().strftime('%H:%M:%S')\n        } !!!\"\n    )",
+        "detail": "SeleniumCource.oop_1",
+        "documentation": {}
+    },
+    {
+        "label": "pwd",
+        "kind": 5,
+        "importPath": "SeleniumCource.oop_1",
+        "description": "SeleniumCource.oop_1",
+        "peekOfCode": "pwd = \"secret_sauce\"\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:\n    print(\"\\n************************************************\")\n    print(\n        f\"Начало теста основного функционала магазина  {base_url} {\n            datetime.datetime.now().time().strftime('%H:%M:%S')\n        } !!!\"\n    )\n    print(\"************************************************\\n\")",
+        "detail": "SeleniumCource.oop_1",
+        "documentation": {}
+    },
+    {
+        "label": "options",
+        "kind": 5,
+        "importPath": "SeleniumCource.slider",
+        "description": "SeleniumCource.slider",
+        "peekOfCode": "options = webdriver.ChromeOptions()\noptions.add_experimental_option('detach', True)\n# options.add_argument('--headless')\nwith webdriver.Chrome(options=options) as browser:\n    print('\\n************************************************')\n    print(f'Начало теста {datetime.datetime.now().time().strftime('%H:%M:%S')} !!!')\n    print('************************************************\\n')\n    action = ActionChains(browser)\n    browser.maximize_window()\n    browser.get('https://demoqa.com/slider')",
+        "detail": "SeleniumCource.slider",
+        "documentation": {}
+    },
+    {
+        "label": "options",
+        "kind": 5,
+        "importPath": "SeleniumCource.template_chrome",
+        "description": "SeleniumCource.template_chrome",
+        "peekOfCode": "options = webdriver.ChromeOptions()\noptions.add_experimental_option('detach', True)\n# options.add_argument('--headless')\nbase_url = ''\nwith webdriver.Chrome(options=options) as browser:\n    print('\\n************************************************')\n    print(f'Начало теста {datetime.datetime.now().time().strftime('%H:%M:%S')} !!!')\n    print('************************************************\\n')\n    action = ActionChains(browser)\n    browser.maximize_window()",
+        "detail": "SeleniumCource.template_chrome",
+        "documentation": {}
+    },
+    {
+        "label": "base_url",
+        "kind": 5,
+        "importPath": "SeleniumCource.template_chrome",
+        "description": "SeleniumCource.template_chrome",
+        "peekOfCode": "base_url = ''\nwith webdriver.Chrome(options=options) as browser:\n    print('\\n************************************************')\n    print(f'Начало теста {datetime.datetime.now().time().strftime('%H:%M:%S')} !!!')\n    print('************************************************\\n')\n    action = ActionChains(browser)\n    browser.maximize_window()\n    browser.get(base_url)\n    slider = browser.find_element(By.XPATH, '//input[@ class=\"range-slider range-slider--primary\"]')\n    action.click_and_hold(slider)",
+        "detail": "SeleniumCource.template_chrome",
+        "documentation": {}
+    },
+    {
+        "label": "test_cart",
+        "kind": 2,
+        "importPath": "SeleniumCource.test",
+        "description": "SeleniumCource.test",
+        "peekOfCode": "def test_cart(num: int, items, text: str):\n    item_list = {}\n    for i, item in enumerate(items, start=1):\n        if i == num:\n            product_name = item.find_element(By.CLASS_NAME, \"inventory_item_name\")\n            product_price = item.find_element(By.CLASS_NAME, \"inventory_item_price\")\n            if text == \"Add to cart\":\n                item.find_element(By.TAG_NAME, \"button\").click()\n                print(\n                    f\"Добавили товар {product_name.text} с ценой {product_price.text} в корзину\"",
+        "detail": "SeleniumCource.test",
+        "documentation": {}
+    },
+    {
+        "label": "input_product",
+        "kind": 2,
+        "importPath": "SeleniumCource.test",
+        "description": "SeleniumCource.test",
+        "peekOfCode": "def input_product(products):\n    print(\"Выберите номер товара, который хотите добавить в корзину!\")\n    for i, product in enumerate(products, start=1):\n        print(f\"{i}. {product.find_element(By.CLASS_NAME, 'inventory_item_name').text}\")\n    while True:\n        try:\n            product_number = int(input(\"Введите номер товара (1 - 6): \"))\n            if 1 <= product_number <= 6:\n                return product_number\n            else:",
+        "detail": "SeleniumCource.test",
+        "documentation": {}
+    },
+    {
+        "label": "login_site",
+        "kind": 2,
+        "importPath": "SeleniumCource.test",
+        "description": "SeleniumCource.test",
+        "peekOfCode": "def login_site(base_url: str, login: str, pwd: str):\n    # Открываем броузер\n    browser.get(base_url)\n    browser.maximize_window()\n    # Заполняем поле логин\n    field_login = browser.find_element(By.ID, \"user-name\")\n    field_login.send_keys(login)\n    # Заполняем поле пароль\n    field_password = browser.find_element(By.ID, \"password\")\n    field_password.send_keys(pwd)",
+        "detail": "SeleniumCource.test",
+        "documentation": {}
+    },
+    {
+        "label": "cart_total",
+        "kind": 2,
+        "importPath": "SeleniumCource.test",
+        "description": "SeleniumCource.test",
+        "peekOfCode": "def cart_total(products: dict):\n    cart_total = 0.0\n    for price in products.values():\n        cart_total += float(price)\n    return round(cart_total, 2)\n# Переменные\nproduct_add_cart = {}\nproduct_in_cart = {}\nproduct_in_summary = {}\ncart_amount = 2",
+        "detail": "SeleniumCource.test",
+        "documentation": {}
+    },
+    {
+        "label": "options",
+        "kind": 5,
+        "importPath": "SeleniumCource.test",
+        "description": "SeleniumCource.test",
+        "peekOfCode": "options = webdriver.ChromeOptions()\noptions.add_experimental_option(\"detach\", True)\n# options.add_argument('--headless')\n# Функция добавления товаров в корзину и проверки товаров находящихся в корзине и summory\ndef test_cart(num: int, items, text: str):\n    item_list = {}\n    for i, item in enumerate(items, start=1):\n        if i == num:\n            product_name = item.find_element(By.CLASS_NAME, \"inventory_item_name\")\n            product_price = item.find_element(By.CLASS_NAME, \"inventory_item_price\")",
+        "detail": "SeleniumCource.test",
+        "documentation": {}
+    },
+    {
+        "label": "product_add_cart",
+        "kind": 5,
+        "importPath": "SeleniumCource.test",
+        "description": "SeleniumCource.test",
+        "peekOfCode": "product_add_cart = {}\nproduct_in_cart = {}\nproduct_in_summary = {}\ncart_amount = 2\n# Учетные данные для входа в интернет магазиин\nbase_url = \"https://www.saucedemo.com/\"\nlogin = \"standard_user\"\npwd = \"secret_sauce\"\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:",
+        "detail": "SeleniumCource.test",
+        "documentation": {}
+    },
+    {
+        "label": "product_in_cart",
+        "kind": 5,
+        "importPath": "SeleniumCource.test",
+        "description": "SeleniumCource.test",
+        "peekOfCode": "product_in_cart = {}\nproduct_in_summary = {}\ncart_amount = 2\n# Учетные данные для входа в интернет магазиин\nbase_url = \"https://www.saucedemo.com/\"\nlogin = \"standard_user\"\npwd = \"secret_sauce\"\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:\n    print(\"\\n************************************************\")",
+        "detail": "SeleniumCource.test",
+        "documentation": {}
+    },
+    {
+        "label": "product_in_summary",
+        "kind": 5,
+        "importPath": "SeleniumCource.test",
+        "description": "SeleniumCource.test",
+        "peekOfCode": "product_in_summary = {}\ncart_amount = 2\n# Учетные данные для входа в интернет магазиин\nbase_url = \"https://www.saucedemo.com/\"\nlogin = \"standard_user\"\npwd = \"secret_sauce\"\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:\n    print(\"\\n************************************************\")\n    print(",
+        "detail": "SeleniumCource.test",
+        "documentation": {}
+    },
+    {
+        "label": "cart_amount",
+        "kind": 5,
+        "importPath": "SeleniumCource.test",
+        "description": "SeleniumCource.test",
+        "peekOfCode": "cart_amount = 2\n# Учетные данные для входа в интернет магазиин\nbase_url = \"https://www.saucedemo.com/\"\nlogin = \"standard_user\"\npwd = \"secret_sauce\"\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:\n    print(\"\\n************************************************\")\n    print(\n        f\"Начало теста основного функционала магазина  {base_url} {",
+        "detail": "SeleniumCource.test",
+        "documentation": {}
+    },
+    {
+        "label": "base_url",
+        "kind": 5,
+        "importPath": "SeleniumCource.test",
+        "description": "SeleniumCource.test",
+        "peekOfCode": "base_url = \"https://www.saucedemo.com/\"\nlogin = \"standard_user\"\npwd = \"secret_sauce\"\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:\n    print(\"\\n************************************************\")\n    print(\n        f\"Начало теста основного функционала магазина  {base_url} {\n            datetime.datetime.now().time().strftime('%H:%M:%S')\n        } !!!\"",
+        "detail": "SeleniumCource.test",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 5,
+        "importPath": "SeleniumCource.test",
+        "description": "SeleniumCource.test",
+        "peekOfCode": "login = \"standard_user\"\npwd = \"secret_sauce\"\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:\n    print(\"\\n************************************************\")\n    print(\n        f\"Начало теста основного функционала магазина  {base_url} {\n            datetime.datetime.now().time().strftime('%H:%M:%S')\n        } !!!\"\n    )",
+        "detail": "SeleniumCource.test",
+        "documentation": {}
+    },
+    {
+        "label": "pwd",
+        "kind": 5,
+        "importPath": "SeleniumCource.test",
+        "description": "SeleniumCource.test",
+        "peekOfCode": "pwd = \"secret_sauce\"\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:\n    print(\"\\n************************************************\")\n    print(\n        f\"Начало теста основного функционала магазина  {base_url} {\n            datetime.datetime.now().time().strftime('%H:%M:%S')\n        } !!!\"\n    )\n    print(\"************************************************\\n\")",
+        "detail": "SeleniumCource.test",
+        "documentation": {}
+    },
+    {
+        "label": "test_cart",
+        "kind": 2,
+        "importPath": "SeleniumCource.test_cart_task_1",
+        "description": "SeleniumCource.test_cart_task_1",
+        "peekOfCode": "def test_cart(num: int, items, text: str):\n    item_list = {}\n    for i, item in enumerate(items, start=1):\n        if i > cart_amount:\n            break\n        else:\n            product_name = item.find_element(By.CLASS_NAME, 'inventory_item_name')\n            product_price = item.find_element(By.CLASS_NAME, 'inventory_item_price')\n            if text == 'Add to cart':\n                item.find_element(By.TAG_NAME, 'button').click()",
+        "detail": "SeleniumCource.test_cart_task_1",
+        "documentation": {}
+    },
+    {
+        "label": "login_site",
+        "kind": 2,
+        "importPath": "SeleniumCource.test_cart_task_1",
+        "description": "SeleniumCource.test_cart_task_1",
+        "peekOfCode": "def login_site(base_url: str, login: str, pwd: str):\n    # Открываем броузер\n    browser.get(base_url)\n    browser.maximize_window()\n    # Заполняем поле логин\n    field_login = browser.find_element(By.ID, \"user-name\")\n    field_login.send_keys(login)\n    # Заполняем поле пароль\n    field_password = browser.find_element(By.ID, \"password\")\n    field_password.send_keys(pwd)",
+        "detail": "SeleniumCource.test_cart_task_1",
+        "documentation": {}
+    },
+    {
+        "label": "cart_total",
+        "kind": 2,
+        "importPath": "SeleniumCource.test_cart_task_1",
+        "description": "SeleniumCource.test_cart_task_1",
+        "peekOfCode": "def cart_total(products: dict):\n    cart_total = 0\n    for price in products.values():\n        cart_total += float(price)\n    return round(cart_total, 2)\n# Переменные\nproduct_add_cart = {}\nproduct_in_cart = {}\nproduct_in_summary = {}\ncart_amount = 2",
+        "detail": "SeleniumCource.test_cart_task_1",
+        "documentation": {}
+    },
+    {
+        "label": "options",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_cart_task_1",
+        "description": "SeleniumCource.test_cart_task_1",
+        "peekOfCode": "options = webdriver.ChromeOptions()\noptions.add_experimental_option('detach', True)\n# options.add_argument('--headless')\n# Функция добавления товаров в корзину и проверки товаров находящихся в корзине и summory\ndef test_cart(num: int, items, text: str):\n    item_list = {}\n    for i, item in enumerate(items, start=1):\n        if i > cart_amount:\n            break\n        else:",
+        "detail": "SeleniumCource.test_cart_task_1",
+        "documentation": {}
+    },
+    {
+        "label": "product_add_cart",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_cart_task_1",
+        "description": "SeleniumCource.test_cart_task_1",
+        "peekOfCode": "product_add_cart = {}\nproduct_in_cart = {}\nproduct_in_summary = {}\ncart_amount = 2\n# Учетные данные для входа в интернет магазиин\nbase_url = 'https://www.saucedemo.com/'\nlogin = 'standard_user'\npwd = 'secret_sauce'\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:",
+        "detail": "SeleniumCource.test_cart_task_1",
+        "documentation": {}
+    },
+    {
+        "label": "product_in_cart",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_cart_task_1",
+        "description": "SeleniumCource.test_cart_task_1",
+        "peekOfCode": "product_in_cart = {}\nproduct_in_summary = {}\ncart_amount = 2\n# Учетные данные для входа в интернет магазиин\nbase_url = 'https://www.saucedemo.com/'\nlogin = 'standard_user'\npwd = 'secret_sauce'\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:\n    print('\\n************************************************')",
+        "detail": "SeleniumCource.test_cart_task_1",
+        "documentation": {}
+    },
+    {
+        "label": "product_in_summary",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_cart_task_1",
+        "description": "SeleniumCource.test_cart_task_1",
+        "peekOfCode": "product_in_summary = {}\ncart_amount = 2\n# Учетные данные для входа в интернет магазиин\nbase_url = 'https://www.saucedemo.com/'\nlogin = 'standard_user'\npwd = 'secret_sauce'\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:\n    print('\\n************************************************')\n    print(f'Начало теста основного функционала магазина {base_url}!!!')",
+        "detail": "SeleniumCource.test_cart_task_1",
+        "documentation": {}
+    },
+    {
+        "label": "cart_amount",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_cart_task_1",
+        "description": "SeleniumCource.test_cart_task_1",
+        "peekOfCode": "cart_amount = 2\n# Учетные данные для входа в интернет магазиин\nbase_url = 'https://www.saucedemo.com/'\nlogin = 'standard_user'\npwd = 'secret_sauce'\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:\n    print('\\n************************************************')\n    print(f'Начало теста основного функционала магазина {base_url}!!!')\n    print('************************************************\\n')",
+        "detail": "SeleniumCource.test_cart_task_1",
+        "documentation": {}
+    },
+    {
+        "label": "base_url",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_cart_task_1",
+        "description": "SeleniumCource.test_cart_task_1",
+        "peekOfCode": "base_url = 'https://www.saucedemo.com/'\nlogin = 'standard_user'\npwd = 'secret_sauce'\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:\n    print('\\n************************************************')\n    print(f'Начало теста основного функционала магазина {base_url}!!!')\n    print('************************************************\\n')\n    login_site(base_url, login, pwd)\n    # Проверка входа в магазин по логотипу",
+        "detail": "SeleniumCource.test_cart_task_1",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_cart_task_1",
+        "description": "SeleniumCource.test_cart_task_1",
+        "peekOfCode": "login = 'standard_user'\npwd = 'secret_sauce'\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:\n    print('\\n************************************************')\n    print(f'Начало теста основного функционала магазина {base_url}!!!')\n    print('************************************************\\n')\n    login_site(base_url, login, pwd)\n    # Проверка входа в магазин по логотипу\n    logo_text = browser.find_element(By.XPATH, '//span[@class=\"title\"]')",
+        "detail": "SeleniumCource.test_cart_task_1",
+        "documentation": {}
+    },
+    {
+        "label": "pwd",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_cart_task_1",
+        "description": "SeleniumCource.test_cart_task_1",
+        "peekOfCode": "pwd = 'secret_sauce'\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:\n    print('\\n************************************************')\n    print(f'Начало теста основного функционала магазина {base_url}!!!')\n    print('************************************************\\n')\n    login_site(base_url, login, pwd)\n    # Проверка входа в магазин по логотипу\n    logo_text = browser.find_element(By.XPATH, '//span[@class=\"title\"]')\n    assert logo_text.text == 'Products', 'Неудача!!! Переход на главную страницу магазина не осуществлен!'",
+        "detail": "SeleniumCource.test_cart_task_1",
+        "documentation": {}
+    },
+    {
+        "label": "options",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_2_datetime",
+        "description": "SeleniumCource.test_task_2_datetime",
+        "peekOfCode": "options = webdriver.ChromeOptions()\noptions.add_experimental_option('detach', True)\n# options.add_argument('--headless')\nwith webdriver.Chrome(options=options) as browser:\n    print('\\n************************************************')\n    print(f'Начало теста {datetime.datetime.now().time().strftime('%H:%M:%S')} !!!')\n    print('************************************************\\n')\n    # Получение текущей и создание новой даты\n    current_date = datetime.datetime.now()\n    print(f'Текущая дата - {current_date.strftime('%m/%d/%Y')}')",
+        "detail": "SeleniumCource.test_task_2_datetime",
+        "documentation": {}
+    },
+    {
+        "label": "test_cart",
+        "kind": 2,
+        "importPath": "SeleniumCource.test_task_3",
+        "description": "SeleniumCource.test_task_3",
+        "peekOfCode": "def test_cart(num: int, items, text: str):\n    item_list = {}\n    for i, item in enumerate(items, start=1):\n        if i == num:\n            product_name = item.find_element(By.CLASS_NAME, \"inventory_item_name\")\n            product_price = item.find_element(By.CLASS_NAME, \"inventory_item_price\")\n            if text == \"Add to cart\":\n                item.find_element(By.TAG_NAME, \"button\").click()\n                print(\n                    f\"Добавили товар {product_name.text} с ценой {product_price.text} в корзину\"",
+        "detail": "SeleniumCource.test_task_3",
+        "documentation": {}
+    },
+    {
+        "label": "input_product",
+        "kind": 2,
+        "importPath": "SeleniumCource.test_task_3",
+        "description": "SeleniumCource.test_task_3",
+        "peekOfCode": "def input_product(products):\n    print(\"Выберите номер товара, который хотите добавить в корзину!\")\n    for i, product in enumerate(products, start=1):\n        print(f\"{i}. {product.find_element(By.CLASS_NAME, 'inventory_item_name').text}\")\n    while True:\n        try:\n            product_number = int(input(\"Введите номер товара (1 - 6): \"))\n            if 1 <= product_number <= 6:\n                return product_number\n            else:",
+        "detail": "SeleniumCource.test_task_3",
+        "documentation": {}
+    },
+    {
+        "label": "login_site",
+        "kind": 2,
+        "importPath": "SeleniumCource.test_task_3",
+        "description": "SeleniumCource.test_task_3",
+        "peekOfCode": "def login_site(base_url: str, login: str, pwd: str):\n    # Открываем броузер\n    browser.get(base_url)\n    browser.maximize_window()\n    # Заполняем поле логин\n    field_login = browser.find_element(By.ID, \"user-name\")\n    field_login.send_keys(login)\n    # Заполняем поле пароль\n    field_password = browser.find_element(By.ID, \"password\")\n    field_password.send_keys(pwd)",
+        "detail": "SeleniumCource.test_task_3",
+        "documentation": {}
+    },
+    {
+        "label": "cart_total",
+        "kind": 2,
+        "importPath": "SeleniumCource.test_task_3",
+        "description": "SeleniumCource.test_task_3",
+        "peekOfCode": "def cart_total(products: dict):\n    cart_total = 0.0\n    for price in products.values():\n        cart_total += float(price)\n    return round(cart_total, 2)\n# Переменные\nproduct_add_cart = {}\nproduct_in_cart = {}\nproduct_in_summary = {}\ncart_amount = 2",
+        "detail": "SeleniumCource.test_task_3",
+        "documentation": {}
+    },
+    {
+        "label": "options",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_3",
+        "description": "SeleniumCource.test_task_3",
+        "peekOfCode": "options = webdriver.ChromeOptions()\noptions.add_experimental_option(\"detach\", True)\n# options.add_argument('--headless')\n# Функция добавления товаров в корзину и проверки товаров находящихся в корзине и summory\ndef test_cart(num: int, items, text: str):\n    item_list = {}\n    for i, item in enumerate(items, start=1):\n        if i == num:\n            product_name = item.find_element(By.CLASS_NAME, \"inventory_item_name\")\n            product_price = item.find_element(By.CLASS_NAME, \"inventory_item_price\")",
+        "detail": "SeleniumCource.test_task_3",
+        "documentation": {}
+    },
+    {
+        "label": "product_add_cart",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_3",
+        "description": "SeleniumCource.test_task_3",
+        "peekOfCode": "product_add_cart = {}\nproduct_in_cart = {}\nproduct_in_summary = {}\ncart_amount = 2\n# Учетные данные для входа в интернет магазиин\nbase_url = \"https://www.saucedemo.com/\"\nlogin = \"standard_user\"\npwd = \"secret_sauce\"\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:",
+        "detail": "SeleniumCource.test_task_3",
+        "documentation": {}
+    },
+    {
+        "label": "product_in_cart",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_3",
+        "description": "SeleniumCource.test_task_3",
+        "peekOfCode": "product_in_cart = {}\nproduct_in_summary = {}\ncart_amount = 2\n# Учетные данные для входа в интернет магазиин\nbase_url = \"https://www.saucedemo.com/\"\nlogin = \"standard_user\"\npwd = \"secret_sauce\"\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:\n    print(\"\\n************************************************\")",
+        "detail": "SeleniumCource.test_task_3",
+        "documentation": {}
+    },
+    {
+        "label": "product_in_summary",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_3",
+        "description": "SeleniumCource.test_task_3",
+        "peekOfCode": "product_in_summary = {}\ncart_amount = 2\n# Учетные данные для входа в интернет магазиин\nbase_url = \"https://www.saucedemo.com/\"\nlogin = \"standard_user\"\npwd = \"secret_sauce\"\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:\n    print(\"\\n************************************************\")\n    print(",
+        "detail": "SeleniumCource.test_task_3",
+        "documentation": {}
+    },
+    {
+        "label": "cart_amount",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_3",
+        "description": "SeleniumCource.test_task_3",
+        "peekOfCode": "cart_amount = 2\n# Учетные данные для входа в интернет магазиин\nbase_url = \"https://www.saucedemo.com/\"\nlogin = \"standard_user\"\npwd = \"secret_sauce\"\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:\n    print(\"\\n************************************************\")\n    print(\n        f\"Начало теста основного функционала магазина  {base_url} {",
+        "detail": "SeleniumCource.test_task_3",
+        "documentation": {}
+    },
+    {
+        "label": "base_url",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_3",
+        "description": "SeleniumCource.test_task_3",
+        "peekOfCode": "base_url = \"https://www.saucedemo.com/\"\nlogin = \"standard_user\"\npwd = \"secret_sauce\"\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:\n    print(\"\\n************************************************\")\n    print(\n        f\"Начало теста основного функционала магазина  {base_url} {\n            datetime.datetime.now().time().strftime('%H:%M:%S')\n        } !!!\"",
+        "detail": "SeleniumCource.test_task_3",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_3",
+        "description": "SeleniumCource.test_task_3",
+        "peekOfCode": "login = \"standard_user\"\npwd = \"secret_sauce\"\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:\n    print(\"\\n************************************************\")\n    print(\n        f\"Начало теста основного функционала магазина  {base_url} {\n            datetime.datetime.now().time().strftime('%H:%M:%S')\n        } !!!\"\n    )",
+        "detail": "SeleniumCource.test_task_3",
+        "documentation": {}
+    },
+    {
+        "label": "pwd",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_3",
+        "description": "SeleniumCource.test_task_3",
+        "peekOfCode": "pwd = \"secret_sauce\"\n# Основной цикл\nwith webdriver.Chrome(options=options) as browser:\n    print(\"\\n************************************************\")\n    print(\n        f\"Начало теста основного функционала магазина  {base_url} {\n            datetime.datetime.now().time().strftime('%H:%M:%S')\n        } !!!\"\n    )\n    print(\"************************************************\\n\")",
+        "detail": "SeleniumCource.test_task_3",
+        "documentation": {}
+    },
+    {
+        "label": "TestAuthPage",
+        "kind": 6,
+        "importPath": "SeleniumCource.test_task_auth",
+        "description": "SeleniumCource.test_task_auth",
+        "peekOfCode": "class TestAuthPage:\n    \"\"\"\n    Класс проверки сценариев аутентификации пользователя в интернет магазине\n    \"\"\"\n    def __init__(self, driver, base_url):\n        self.driver = driver\n        self.base_url = base_url\n    # Метод аутентификации пользователя на сайте магазина\n    # Поиск и заполнение полей формы аутентификации\n    def login_market(self, login, password):",
+        "detail": "SeleniumCource.test_task_auth",
+        "documentation": {}
+    },
+    {
+        "label": "PageUtils",
+        "kind": 6,
+        "importPath": "SeleniumCource.test_task_auth",
+        "description": "SeleniumCource.test_task_auth",
+        "peekOfCode": "class PageUtils:\n    \"\"\"\n    Класс со вспомогательными методами\n    \"\"\"\n    def __init__(self):\n        pass\n    @staticmethod\n    # Функция отбражения времени\n    def print_test_time(begin_text):\n        print(\"\\n************************************************\")",
+        "detail": "SeleniumCource.test_task_auth",
+        "documentation": {}
+    },
+    {
+        "label": "TestCaseUserAuth",
+        "kind": 6,
+        "importPath": "SeleniumCource.test_task_auth",
+        "description": "SeleniumCource.test_task_auth",
+        "peekOfCode": "class TestCaseUserAuth:\n    \"\"\"\n    Тесткейс для тестирования сценариев аутентификации\n    пользователя интернет магазина\n    \"\"\"\n    def __init__(self):\n        pass\n    def test_start(self):\n        with webdriver.Chrome(options=options) as driver:\n            # Начало теста",
+        "detail": "SeleniumCource.test_task_auth",
+        "documentation": {}
+    },
+    {
+        "label": "base_url",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_auth",
+        "description": "SeleniumCource.test_task_auth",
+        "peekOfCode": "base_url = \"https://www.saucedemo.com/\"\nlogin_list = [\n    \"standard_user\",\n    \"locked_out_user\",\n    \"problem_user\",\n    \"performance_glitch_user\",\n    \"error_user\",\n    \"visual_user\",\n    \" \",\n]",
+        "detail": "SeleniumCource.test_task_auth",
+        "documentation": {}
+    },
+    {
+        "label": "login_list",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_auth",
+        "description": "SeleniumCource.test_task_auth",
+        "peekOfCode": "login_list = [\n    \"standard_user\",\n    \"locked_out_user\",\n    \"problem_user\",\n    \"performance_glitch_user\",\n    \"error_user\",\n    \"visual_user\",\n    \" \",\n]\nlogin = \"standard_user\"",
+        "detail": "SeleniumCource.test_task_auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_auth",
+        "description": "SeleniumCource.test_task_auth",
+        "peekOfCode": "login = \"standard_user\"\npwd = \"secret_sauce\"\n# Параметры и опции драйвера\noptions = webdriver.ChromeOptions()\n# options.add_argument('--headless')\noptions.add_experimental_option(\"detach\", True)\nclass TestAuthPage:\n    \"\"\"\n    Класс проверки сценариев аутентификации пользователя в интернет магазине\n    \"\"\"",
+        "detail": "SeleniumCource.test_task_auth",
+        "documentation": {}
+    },
+    {
+        "label": "pwd",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_auth",
+        "description": "SeleniumCource.test_task_auth",
+        "peekOfCode": "pwd = \"secret_sauce\"\n# Параметры и опции драйвера\noptions = webdriver.ChromeOptions()\n# options.add_argument('--headless')\noptions.add_experimental_option(\"detach\", True)\nclass TestAuthPage:\n    \"\"\"\n    Класс проверки сценариев аутентификации пользователя в интернет магазине\n    \"\"\"\n    def __init__(self, driver, base_url):",
+        "detail": "SeleniumCource.test_task_auth",
+        "documentation": {}
+    },
+    {
+        "label": "options",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_auth",
+        "description": "SeleniumCource.test_task_auth",
+        "peekOfCode": "options = webdriver.ChromeOptions()\n# options.add_argument('--headless')\noptions.add_experimental_option(\"detach\", True)\nclass TestAuthPage:\n    \"\"\"\n    Класс проверки сценариев аутентификации пользователя в интернет магазине\n    \"\"\"\n    def __init__(self, driver, base_url):\n        self.driver = driver\n        self.base_url = base_url",
+        "detail": "SeleniumCource.test_task_auth",
+        "documentation": {}
+    },
+    {
+        "label": "test_case_user_auth",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_auth",
+        "description": "SeleniumCource.test_task_auth",
+        "peekOfCode": "test_case_user_auth = TestCaseUserAuth()\ntest_case_user_auth.test_start()",
+        "detail": "SeleniumCource.test_task_auth",
+        "documentation": {}
+    },
+    {
+        "label": "Utils",
+        "kind": 6,
+        "importPath": "SeleniumCource.test_task_oop",
+        "description": "SeleniumCource.test_task_oop",
+        "peekOfCode": "class Utils:\n    \"\"\"Вспомогательные функции\"\"\"\n    def __init__(self):\n        pass\n    # Функция добавления товаров в корзину и проверки товаров находящихся в корзине и summory\n    def test_cart(num: int, items, text: str):\n        item_list = {}\n        for i, item in enumerate(items, start=1):\n            if i == num:\n                product_name = item.find_element(By.CLASS_NAME, \"inventory_item_name\")",
+        "detail": "SeleniumCource.test_task_oop",
+        "documentation": {}
+    },
+    {
+        "label": "TestAutentification",
+        "kind": 6,
+        "importPath": "SeleniumCource.test_task_oop",
+        "description": "SeleniumCource.test_task_oop",
+        "peekOfCode": "class TestAutentification:\n    \"\"\"Класс для аутентификации пользователя в интернет магазине\"\"\"\n    def __init__(self, driver, base_url, login, password):\n        self.driver = driver\n        self.base_url = base_url\n        self.login = login\n        self.password = password\n    \"\"\"Метод аутентификации пользователя на сайте магазина\"\"\"\n    def login_market(self):\n        # Заполняем поле логин",
+        "detail": "SeleniumCource.test_task_oop",
+        "documentation": {}
+    },
+    {
+        "label": "TestAddProductToCart",
+        "kind": 6,
+        "importPath": "SeleniumCource.test_task_oop",
+        "description": "SeleniumCource.test_task_oop",
+        "peekOfCode": "class TestAddProductToCart:\n    \"\"\"Класс\"\"\"\n    def __init__(self, products):\n        self.products = products\n    # Метод для иммитации выбора конкретного товара пользователем\n    def input_product(self):\n        print(\"Выберите номер товара, который хотите добавить в корзину!\")\n        for i, product in enumerate(self.products, start=1):\n            print(\n                f\"{i}. {product.find_element(By.CLASS_NAME, 'inventory_item_name').text}\"",
+        "detail": "SeleniumCource.test_task_oop",
+        "documentation": {}
+    },
+    {
+        "label": "options",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_oop",
+        "description": "SeleniumCource.test_task_oop",
+        "peekOfCode": "options = webdriver.ChromeOptions()\noptions.add_experimental_option(\"detach\", True)\n# options.add_argument('--headless')\n# # Учетные данные для входа в интернет магазиин\nbase_url = \"https://www.saucedemo.com/\"\nlogin = \"standard_user\"\npwd = \"secret_sauce\"\nwith webdriver.Chrome(options=options) as driver:\n    print(\"\\n************************************************\")\n    print(f\"Начало теста {datetime.datetime.now().time().strftime('%H:%M:%S')} !!!\")",
+        "detail": "SeleniumCource.test_task_oop",
+        "documentation": {}
+    },
+    {
+        "label": "base_url",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_oop",
+        "description": "SeleniumCource.test_task_oop",
+        "peekOfCode": "base_url = \"https://www.saucedemo.com/\"\nlogin = \"standard_user\"\npwd = \"secret_sauce\"\nwith webdriver.Chrome(options=options) as driver:\n    print(\"\\n************************************************\")\n    print(f\"Начало теста {datetime.datetime.now().time().strftime('%H:%M:%S')} !!!\")\n    print(\"************************************************\\n\")\n    # Открытие браузера\n    driver.maximize_window()\n    driver.get(base_url)",
+        "detail": "SeleniumCource.test_task_oop",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_oop",
+        "description": "SeleniumCource.test_task_oop",
+        "peekOfCode": "login = \"standard_user\"\npwd = \"secret_sauce\"\nwith webdriver.Chrome(options=options) as driver:\n    print(\"\\n************************************************\")\n    print(f\"Начало теста {datetime.datetime.now().time().strftime('%H:%M:%S')} !!!\")\n    print(\"************************************************\\n\")\n    # Открытие браузера\n    driver.maximize_window()\n    driver.get(base_url)\n    # Аутентификация пользователя",
+        "detail": "SeleniumCource.test_task_oop",
+        "documentation": {}
+    },
+    {
+        "label": "pwd",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_oop",
+        "description": "SeleniumCource.test_task_oop",
+        "peekOfCode": "pwd = \"secret_sauce\"\nwith webdriver.Chrome(options=options) as driver:\n    print(\"\\n************************************************\")\n    print(f\"Начало теста {datetime.datetime.now().time().strftime('%H:%M:%S')} !!!\")\n    print(\"************************************************\\n\")\n    # Открытие браузера\n    driver.maximize_window()\n    driver.get(base_url)\n    # Аутентификация пользователя\n    ta = TestAutentification(driver, base_url, login, pwd)",
+        "detail": "SeleniumCource.test_task_oop",
+        "documentation": {}
+    },
+    {
+        "label": "TestAuthPage",
+        "kind": 6,
+        "importPath": "SeleniumCource.test_task_pom",
+        "description": "SeleniumCource.test_task_pom",
+        "peekOfCode": "class TestAuthPage:\n    \"\"\"Класс для аутентификации пользователя в интернет магазине\"\"\"\n    def __init__(self, driver, base_url, login, password):\n        self.driver = driver\n        self.base_url = base_url\n        self.login = login\n        self.password = password\n    \"\"\"Метод аутентификации пользователя на сайте магазина\"\"\"\n    def login_market(self):\n        wait = WebDriverWait(self.driver, 20)",
+        "detail": "SeleniumCource.test_task_pom",
+        "documentation": {}
+    },
+    {
+        "label": "TestMarketPage",
+        "kind": 6,
+        "importPath": "SeleniumCource.test_task_pom",
+        "description": "SeleniumCource.test_task_pom",
+        "peekOfCode": "class TestMarketPage:\n    \"\"\"Класс для тестирования главной страницы магазина\"\"\"\n    def __init__(self, driver):\n        self.driver = driver\n    def get_inventory_list(self):\n        wait = WebDriverWait(self.driver, 10)\n        # Получение списка элементов на главной странице магазина\n        inventory_list = wait.until(\n            EC.visibility_of_all_elements_located((By.CLASS_NAME, \"inventory_item\"))\n        )",
+        "detail": "SeleniumCource.test_task_pom",
+        "documentation": {}
+    },
+    {
+        "label": "TestCartPage",
+        "kind": 6,
+        "importPath": "SeleniumCource.test_task_pom",
+        "description": "SeleniumCource.test_task_pom",
+        "peekOfCode": "class TestCartPage:\n    \"\"\"Класс для тестирования корзины магазина\"\"\"\n    def __init__(self, driver):\n        self.driver = driver\n    # Метод для олучения списка элементов присутствующих в корзине\n    def get_cart_list(self):\n        wait = WebDriverWait(self.driver, 10)\n        cart_list = wait.until(\n            EC.visibility_of_all_elements_located((By.CLASS_NAME, \"cart_item\"))\n        )",
+        "detail": "SeleniumCource.test_task_pom",
+        "documentation": {}
+    },
+    {
+        "label": "TestInfoPage",
+        "kind": 6,
+        "importPath": "SeleniumCource.test_task_pom",
+        "description": "SeleniumCource.test_task_pom",
+        "peekOfCode": "class TestInfoPage:\n    \"\"\"Класс тестирования страницы оформления товара (шфг-1)\"\"\"\n    def __init__(self, driver, first_name: str, last_name: str, zip_code: int):\n        self.driver = driver\n        self.first_name = first_name\n        self.last_name = last_name\n        self.zip_code = zip_code\n    # Метод для обработки формы оформления товара\n    def processing_fields(self):\n        wait = WebDriverWait(self.driver, 10)",
+        "detail": "SeleniumCource.test_task_pom",
+        "documentation": {}
+    },
+    {
+        "label": "TestSummaryPage",
+        "kind": 6,
+        "importPath": "SeleniumCource.test_task_pom",
+        "description": "SeleniumCource.test_task_pom",
+        "peekOfCode": "class TestSummaryPage:\n    \"\"\"Класс для тестирования страницы оформления заказа (шаг-2),\n    проверки стоимости заказа и комиссии\"\"\"\n    def __init__(self, driver):\n        self.driver = driver\n    # Метод для получения списка товаров на странице офформления (шаг-2)\n    def get_summary_list(self):\n        wait = WebDriverWait(self.driver, 10)\n        summary_list = wait.until(\n            EC.presence_of_all_elements_located((By.CLASS_NAME, \"cart_item\"))",
+        "detail": "SeleniumCource.test_task_pom",
+        "documentation": {}
+    },
+    {
+        "label": "TestFinishPage",
+        "kind": 6,
+        "importPath": "SeleniumCource.test_task_pom",
+        "description": "SeleniumCource.test_task_pom",
+        "peekOfCode": "class TestFinishPage:\n    \"\"\"Класс для тестирования страницы завершения оформления заказа\"\"\"\n    def __init__(self, driver):\n        self.driver = driver\n    def check_finish_page(self):\n        finish = self.driver.find_element(By.ID, \"finish\")\n        finish.click()\n        print(\"Нажатие на кнопку finish!\")\n        # Проверка перехода на страницу завершения покупки\n        assert (",
+        "detail": "SeleniumCource.test_task_pom",
+        "documentation": {}
+    },
+    {
+        "label": "PageUtils",
+        "kind": 6,
+        "importPath": "SeleniumCource.test_task_pom",
+        "description": "SeleniumCource.test_task_pom",
+        "peekOfCode": "class PageUtils:\n    \"\"\" \" \"\"\"\n    def __init__(self):\n        pass\n    @staticmethod\n    # Метод добавления товаров в корзину и проверки товаров находящихся в корзине и summory\n    def processing_cart(num: int, items, text: str):\n        item_list = {}\n        for i, item in enumerate(items, start=1):\n            if i == num:",
+        "detail": "SeleniumCource.test_task_pom",
+        "documentation": {}
+    },
+    {
+        "label": "base_url",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_pom",
+        "description": "SeleniumCource.test_task_pom",
+        "peekOfCode": "base_url = \"https://www.saucedemo.com/\"\nlogin = \"standard_user\"\npwd = \"secret_sauce\"\n# Параметры и опции драйвера\noptions = webdriver.ChromeOptions()\n# options.add_argument('--headless')\noptions.add_experimental_option(\"detach\", True)\nclass TestAuthPage:\n    \"\"\"Класс для аутентификации пользователя в интернет магазине\"\"\"\n    def __init__(self, driver, base_url, login, password):",
+        "detail": "SeleniumCource.test_task_pom",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_pom",
+        "description": "SeleniumCource.test_task_pom",
+        "peekOfCode": "login = \"standard_user\"\npwd = \"secret_sauce\"\n# Параметры и опции драйвера\noptions = webdriver.ChromeOptions()\n# options.add_argument('--headless')\noptions.add_experimental_option(\"detach\", True)\nclass TestAuthPage:\n    \"\"\"Класс для аутентификации пользователя в интернет магазине\"\"\"\n    def __init__(self, driver, base_url, login, password):\n        self.driver = driver",
+        "detail": "SeleniumCource.test_task_pom",
+        "documentation": {}
+    },
+    {
+        "label": "pwd",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_pom",
+        "description": "SeleniumCource.test_task_pom",
+        "peekOfCode": "pwd = \"secret_sauce\"\n# Параметры и опции драйвера\noptions = webdriver.ChromeOptions()\n# options.add_argument('--headless')\noptions.add_experimental_option(\"detach\", True)\nclass TestAuthPage:\n    \"\"\"Класс для аутентификации пользователя в интернет магазине\"\"\"\n    def __init__(self, driver, base_url, login, password):\n        self.driver = driver\n        self.base_url = base_url",
+        "detail": "SeleniumCource.test_task_pom",
+        "documentation": {}
+    },
+    {
+        "label": "options",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_pom",
+        "description": "SeleniumCource.test_task_pom",
+        "peekOfCode": "options = webdriver.ChromeOptions()\n# options.add_argument('--headless')\noptions.add_experimental_option(\"detach\", True)\nclass TestAuthPage:\n    \"\"\"Класс для аутентификации пользователя в интернет магазине\"\"\"\n    def __init__(self, driver, base_url, login, password):\n        self.driver = driver\n        self.base_url = base_url\n        self.login = login\n        self.password = password",
+        "detail": "SeleniumCource.test_task_pom",
+        "documentation": {}
+    },
+    {
+        "label": "TestAuthPage",
+        "kind": 6,
+        "importPath": "SeleniumCource.test_task_pom_auth",
+        "description": "SeleniumCource.test_task_pom_auth",
+        "peekOfCode": "class TestAuthPage:\n    \"\"\"Класс для аутентификации пользователя в интернет магазине\"\"\"\n    def __init__(self, driver, base_url):\n        self.driver = driver\n        self.base_url = base_url\n    # Метод аутентификации пользователя на сайте магазина\n    # Поиск и заполнение полей формы аутентификации\n    def login_market(self, login, password):\n        wait = WebDriverWait(self.driver, 20)\n        # Заполняем поле логин",
+        "detail": "SeleniumCource.test_task_pom_auth",
+        "documentation": {}
+    },
+    {
+        "label": "TestMarketPage",
+        "kind": 6,
+        "importPath": "SeleniumCource.test_task_pom_auth",
+        "description": "SeleniumCource.test_task_pom_auth",
+        "peekOfCode": "class TestMarketPage:\n    \"\"\"Класс для тестирования главной страницы магазина\"\"\"\n    def __init__(self, driver):\n        self.driver = driver\n    def get_inventory_list(self):\n        wait = WebDriverWait(self.driver, 10)\n        # Получение списка элементов на главной странице магазина\n        inventory_list = wait.until(\n            EC.visibility_of_all_elements_located((By.CLASS_NAME, \"inventory_item\"))\n        )",
+        "detail": "SeleniumCource.test_task_pom_auth",
+        "documentation": {}
+    },
+    {
+        "label": "TestCartPage",
+        "kind": 6,
+        "importPath": "SeleniumCource.test_task_pom_auth",
+        "description": "SeleniumCource.test_task_pom_auth",
+        "peekOfCode": "class TestCartPage:\n    \"\"\"Класс для тестирования корзины магазина\"\"\"\n    def __init__(self, driver):\n        self.driver = driver\n    # Метод для олучения списка элементов присутствующих в корзине\n    def get_cart_list(self):\n        wait = WebDriverWait(self.driver, 10)\n        cart_list = wait.until(\n            EC.visibility_of_all_elements_located((By.CLASS_NAME, \"cart_item\"))\n        )",
+        "detail": "SeleniumCource.test_task_pom_auth",
+        "documentation": {}
+    },
+    {
+        "label": "TestInfoPage",
+        "kind": 6,
+        "importPath": "SeleniumCource.test_task_pom_auth",
+        "description": "SeleniumCource.test_task_pom_auth",
+        "peekOfCode": "class TestInfoPage:\n    \"\"\"Класс тестирования страницы оформления товара (шфг-1)\"\"\"\n    def __init__(self, driver, first_name: str, last_name: str, zip_code: int):\n        self.driver = driver\n        self.first_name = first_name\n        self.last_name = last_name\n        self.zip_code = zip_code\n    # Метод для обработки формы оформления товара\n    def processing_fields(self):\n        wait = WebDriverWait(self.driver, 10)",
+        "detail": "SeleniumCource.test_task_pom_auth",
+        "documentation": {}
+    },
+    {
+        "label": "TestSummaryPage",
+        "kind": 6,
+        "importPath": "SeleniumCource.test_task_pom_auth",
+        "description": "SeleniumCource.test_task_pom_auth",
+        "peekOfCode": "class TestSummaryPage:\n    \"\"\"Класс для тестирования страницы оформления заказа (шаг-2),\n    проверки стоимости заказа и комиссии\"\"\"\n    def __init__(self, driver):\n        self.driver = driver\n    # Метод для получения списка товаров на странице офформления (шаг-2)\n    def get_summary_list(self):\n        wait = WebDriverWait(self.driver, 10)\n        summary_list = wait.until(\n            EC.presence_of_all_elements_located((By.CLASS_NAME, \"cart_item\"))",
+        "detail": "SeleniumCource.test_task_pom_auth",
+        "documentation": {}
+    },
+    {
+        "label": "TestFinishPage",
+        "kind": 6,
+        "importPath": "SeleniumCource.test_task_pom_auth",
+        "description": "SeleniumCource.test_task_pom_auth",
+        "peekOfCode": "class TestFinishPage:\n    \"\"\"Класс для тестирования страницы завершения оформления заказа\"\"\"\n    def __init__(self, driver):\n        self.driver = driver\n    def check_finish_page(self):\n        finish = self.driver.find_element(By.ID, \"finish\")\n        finish.click()\n        print(\"Нажатие на кнопку finish!\")\n        # Проверка перехода на страницу завершения покупки\n        assert (",
+        "detail": "SeleniumCource.test_task_pom_auth",
+        "documentation": {}
+    },
+    {
+        "label": "PageUtils",
+        "kind": 6,
+        "importPath": "SeleniumCource.test_task_pom_auth",
+        "description": "SeleniumCource.test_task_pom_auth",
+        "peekOfCode": "class PageUtils:\n    \"\"\"Класс со вспомогательными методами\"\"\"\n    def __init__(self):\n        pass\n    @staticmethod\n    # Метод добавления товаров в корзину и проверки товаров находящихся в корзине и summory\n    def processing_cart(num: int, items, text: str):\n        item_list = {}\n        for i, item in enumerate(items, start=1):\n            if i == num:",
+        "detail": "SeleniumCource.test_task_pom_auth",
+        "documentation": {}
+    },
+    {
+        "label": "TestCaseSmoke",
+        "kind": 6,
+        "importPath": "SeleniumCource.test_task_pom_auth",
+        "description": "SeleniumCource.test_task_pom_auth",
+        "peekOfCode": "class TestCaseSmoke:\n    \"\"\"Тест основного функционала интернет магазина \"https://www.saucedemo.com/\" \"\"\"\n    def __init__(self):\n        pass\n    def test_start(self):\n        with webdriver.Chrome(options=options) as driver:\n            # Начало теста\n            PageUtils.print_test_time(\n                f\"Начало тестирования основного функционала интернет магазина {base_url}\"\n            )",
+        "detail": "SeleniumCource.test_task_pom_auth",
+        "documentation": {}
+    },
+    {
+        "label": "TestCaseUserAuth",
+        "kind": 6,
+        "importPath": "SeleniumCource.test_task_pom_auth",
+        "description": "SeleniumCource.test_task_pom_auth",
+        "peekOfCode": "class TestCaseUserAuth:\n    \"\"\"Тесткейс для тестирования сценариев аутентификации\n    пользователя интернет магазина\"\"\"\n    def __init__(self):\n        pass\n    def test_start(self):\n        with webdriver.Chrome(options=options) as driver:\n            # Начало теста\n            PageUtils.print_test_time(\n                f\"Начало тестирования аутентификации пользователя магазина {base_url}\"",
+        "detail": "SeleniumCource.test_task_pom_auth",
+        "documentation": {}
+    },
+    {
+        "label": "base_url",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_pom_auth",
+        "description": "SeleniumCource.test_task_pom_auth",
+        "peekOfCode": "base_url = \"https://www.saucedemo.com/\"\nlogin_list = [\n    \"standard_user\",\n    \"locked_out_user\",\n    \"problem_user\",\n    \"performance_glitch_user\",\n    \"error_user\",\n    \"visual_user\",\n]\nlogin = \"standard_user\"",
+        "detail": "SeleniumCource.test_task_pom_auth",
+        "documentation": {}
+    },
+    {
+        "label": "login_list",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_pom_auth",
+        "description": "SeleniumCource.test_task_pom_auth",
+        "peekOfCode": "login_list = [\n    \"standard_user\",\n    \"locked_out_user\",\n    \"problem_user\",\n    \"performance_glitch_user\",\n    \"error_user\",\n    \"visual_user\",\n]\nlogin = \"standard_user\"\npwd = \"secret_sauce\"",
+        "detail": "SeleniumCource.test_task_pom_auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_pom_auth",
+        "description": "SeleniumCource.test_task_pom_auth",
+        "peekOfCode": "login = \"standard_user\"\npwd = \"secret_sauce\"\n# Параметры и опции драйвера\noptions = webdriver.ChromeOptions()\n# options.add_argument('--headless')\noptions.add_experimental_option(\"detach\", True)\nclass TestAuthPage:\n    \"\"\"Класс для аутентификации пользователя в интернет магазине\"\"\"\n    def __init__(self, driver, base_url):\n        self.driver = driver",
+        "detail": "SeleniumCource.test_task_pom_auth",
+        "documentation": {}
+    },
+    {
+        "label": "pwd",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_pom_auth",
+        "description": "SeleniumCource.test_task_pom_auth",
+        "peekOfCode": "pwd = \"secret_sauce\"\n# Параметры и опции драйвера\noptions = webdriver.ChromeOptions()\n# options.add_argument('--headless')\noptions.add_experimental_option(\"detach\", True)\nclass TestAuthPage:\n    \"\"\"Класс для аутентификации пользователя в интернет магазине\"\"\"\n    def __init__(self, driver, base_url):\n        self.driver = driver\n        self.base_url = base_url",
+        "detail": "SeleniumCource.test_task_pom_auth",
+        "documentation": {}
+    },
+    {
+        "label": "options",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_pom_auth",
+        "description": "SeleniumCource.test_task_pom_auth",
+        "peekOfCode": "options = webdriver.ChromeOptions()\n# options.add_argument('--headless')\noptions.add_experimental_option(\"detach\", True)\nclass TestAuthPage:\n    \"\"\"Класс для аутентификации пользователя в интернет магазине\"\"\"\n    def __init__(self, driver, base_url):\n        self.driver = driver\n        self.base_url = base_url\n    # Метод аутентификации пользователя на сайте магазина\n    # Поиск и заполнение полей формы аутентификации",
+        "detail": "SeleniumCource.test_task_pom_auth",
+        "documentation": {}
+    },
+    {
+        "label": "test_case_smoke",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_pom_auth",
+        "description": "SeleniumCource.test_task_pom_auth",
+        "peekOfCode": "test_case_smoke = TestCaseSmoke()\ntest_case_smoke.test_start()\ntest_case_user_auth = TestCaseUserAuth()\ntest_case_user_auth.test_start()",
+        "detail": "SeleniumCource.test_task_pom_auth",
+        "documentation": {}
+    },
+    {
+        "label": "test_case_user_auth",
+        "kind": 5,
+        "importPath": "SeleniumCource.test_task_pom_auth",
+        "description": "SeleniumCource.test_task_pom_auth",
+        "peekOfCode": "test_case_user_auth = TestCaseUserAuth()\ntest_case_user_auth.test_start()",
+        "detail": "SeleniumCource.test_task_pom_auth",
+        "documentation": {}
+    },
+    {
+        "label": "connect",
+        "kind": 2,
+        "importPath": "SocketIoCourse.wsserver",
+        "description": "SocketIoCourse.wsserver",
+        "peekOfCode": "def connect(sid, environ):\n    print(f\"Клиент {sid} подключился\")\n    users_counters[sid] = 0\n    time.sleep(2)\n    sio.emit(\"message\", {\"msg\": \"hello message!\"}, to=sid)\n    print('Список пользователей - ', users_counters)\n@sio.event\ndef disconnect(sid):\n    users_counters.pop(sid)\n    print(f\"Клиент {sid} отключился\")",
+        "detail": "SocketIoCourse.wsserver",
+        "documentation": {}
+    },
+    {
+        "label": "disconnect",
+        "kind": 2,
+        "importPath": "SocketIoCourse.wsserver",
+        "description": "SocketIoCourse.wsserver",
+        "peekOfCode": "def disconnect(sid):\n    users_counters.pop(sid)\n    print(f\"Клиент {sid} отключился\")\n    print('Список пользователей - ', users_counters)\n@sio.event\ndef welcome(sid, data):\n    sio.emit(\"welcome\", {\"msg\": f\"Welcome event{data}\"}, to=sid)\n@sio.event\ndef message(sid, data):\n    print(f\"Сообщение от {sid}: {data}\")",
+        "detail": "SocketIoCourse.wsserver",
+        "documentation": {}
+    },
+    {
+        "label": "welcome",
+        "kind": 2,
+        "importPath": "SocketIoCourse.wsserver",
+        "description": "SocketIoCourse.wsserver",
+        "peekOfCode": "def welcome(sid, data):\n    sio.emit(\"welcome\", {\"msg\": f\"Welcome event{data}\"}, to=sid)\n@sio.event\ndef message(sid, data):\n    print(f\"Сообщение от {sid}: {data}\")\n    sio.emit(\"message\", {\"msg\": f\"Эхо: {data}\"}, to=sid)\n@sio.event\ndef join(sid, data):\n    sio.emit(\"status_update\", {\"msg\": f\"Эхо: {data}\"}, to=sid)\n@sio.event",
+        "detail": "SocketIoCourse.wsserver",
+        "documentation": {}
+    },
+    {
+        "label": "message",
+        "kind": 2,
+        "importPath": "SocketIoCourse.wsserver",
+        "description": "SocketIoCourse.wsserver",
+        "peekOfCode": "def message(sid, data):\n    print(f\"Сообщение от {sid}: {data}\")\n    sio.emit(\"message\", {\"msg\": f\"Эхо: {data}\"}, to=sid)\n@sio.event\ndef join(sid, data):\n    sio.emit(\"status_update\", {\"msg\": f\"Эхо: {data}\"}, to=sid)\n@sio.event\ndef get_users_online(sid, environ):\n    sio.emit(\"users\", {\"online\": len(users_list)}, to=sid)\n    print(f'Количество пользователей онлайн - {len(users_list)}')",
+        "detail": "SocketIoCourse.wsserver",
+        "documentation": {}
+    },
+    {
+        "label": "join",
+        "kind": 2,
+        "importPath": "SocketIoCourse.wsserver",
+        "description": "SocketIoCourse.wsserver",
+        "peekOfCode": "def join(sid, data):\n    sio.emit(\"status_update\", {\"msg\": f\"Эхо: {data}\"}, to=sid)\n@sio.event\ndef get_users_online(sid, environ):\n    sio.emit(\"users\", {\"online\": len(users_list)}, to=sid)\n    print(f'Количество пользователей онлайн - {len(users_list)}')\n@sio.event\ndef count_queries(sid, environ):\n    sio.emit(\"users\", {\"counter\": counter}, to=sid)\n    print(f'Количество запросов - {counter}')",
+        "detail": "SocketIoCourse.wsserver",
+        "documentation": {}
+    },
+    {
+        "label": "get_users_online",
+        "kind": 2,
+        "importPath": "SocketIoCourse.wsserver",
+        "description": "SocketIoCourse.wsserver",
+        "peekOfCode": "def get_users_online(sid, environ):\n    sio.emit(\"users\", {\"online\": len(users_list)}, to=sid)\n    print(f'Количество пользователей онлайн - {len(users_list)}')\n@sio.event\ndef count_queries(sid, environ):\n    sio.emit(\"users\", {\"counter\": counter}, to=sid)\n    print(f'Количество запросов - {counter}')\n@sio.event\ndef increase(sid, environ):\n    users_counters[sid] += 1",
+        "detail": "SocketIoCourse.wsserver",
+        "documentation": {}
+    },
+    {
+        "label": "count_queries",
+        "kind": 2,
+        "importPath": "SocketIoCourse.wsserver",
+        "description": "SocketIoCourse.wsserver",
+        "peekOfCode": "def count_queries(sid, environ):\n    sio.emit(\"users\", {\"counter\": counter}, to=sid)\n    print(f'Количество запросов - {counter}')\n@sio.event\ndef increase(sid, environ):\n    users_counters[sid] += 1\n    print('Счетчик увеличен на еденицу - ', users_counters.values())\n    print(users_counters)\n@sio.event\ndef decrease(sid, environ):",
+        "detail": "SocketIoCourse.wsserver",
+        "documentation": {}
+    },
+    {
+        "label": "increase",
+        "kind": 2,
+        "importPath": "SocketIoCourse.wsserver",
+        "description": "SocketIoCourse.wsserver",
+        "peekOfCode": "def increase(sid, environ):\n    users_counters[sid] += 1\n    print('Счетчик увеличен на еденицу - ', users_counters.values())\n    print(users_counters)\n@sio.event\ndef decrease(sid, environ):\n    if users_counters[sid] > 0:\n        users_counters[sid] -= 1\n        print('Счетчик увеличен на еденицу - ', users_counters.values())\n    else:",
+        "detail": "SocketIoCourse.wsserver",
+        "documentation": {}
+    },
+    {
+        "label": "decrease",
+        "kind": 2,
+        "importPath": "SocketIoCourse.wsserver",
+        "description": "SocketIoCourse.wsserver",
+        "peekOfCode": "def decrease(sid, environ):\n    if users_counters[sid] > 0:\n        users_counters[sid] -= 1\n        print('Счетчик увеличен на еденицу - ', users_counters.values())\n    else:\n        print('Счетчик пользователя равен нулю! ', users_counters[sid])\n    print(users_counters)\n@sio.on('*')\ndef catch_all(event, sid, data):\n    global counter",
+        "detail": "SocketIoCourse.wsserver",
+        "documentation": {}
+    },
+    {
+        "label": "catch_all",
+        "kind": 2,
+        "importPath": "SocketIoCourse.wsserver",
+        "description": "SocketIoCourse.wsserver",
+        "peekOfCode": "def catch_all(event, sid, data):\n    global counter\n    sio.emit(\"error\", {\"message\": f\"No handler for event {event}\"})   \n    counter += 1\n    print(counter)\n# Запуск приложения\nif __name__ == \"__main__\":\n    import eventlet\n    eventlet.wsgi.server(eventlet.listen(('0.0.0.0', 5000)), app)",
+        "detail": "SocketIoCourse.wsserver",
+        "documentation": {}
+    },
+    {
+        "label": "users_list",
+        "kind": 5,
+        "importPath": "SocketIoCourse.wsserver",
+        "description": "SocketIoCourse.wsserver",
+        "peekOfCode": "users_list = []\ncounter = 0\nusers_counters = {}\n# Создаем сервер Socket.IO\nsio = socketio.Server(cors_allowed_origins=\n                      {\n                          \"192.168.1.30\",\n                          \"192.168.1.20\",\n                          \"*\"\n                      }",
+        "detail": "SocketIoCourse.wsserver",
+        "documentation": {}
+    },
+    {
+        "label": "counter",
+        "kind": 5,
+        "importPath": "SocketIoCourse.wsserver",
+        "description": "SocketIoCourse.wsserver",
+        "peekOfCode": "counter = 0\nusers_counters = {}\n# Создаем сервер Socket.IO\nsio = socketio.Server(cors_allowed_origins=\n                      {\n                          \"192.168.1.30\",\n                          \"192.168.1.20\",\n                          \"*\"\n                      }\n)",
+        "detail": "SocketIoCourse.wsserver",
+        "documentation": {}
+    },
+    {
+        "label": "users_counters",
+        "kind": 5,
+        "importPath": "SocketIoCourse.wsserver",
+        "description": "SocketIoCourse.wsserver",
+        "peekOfCode": "users_counters = {}\n# Создаем сервер Socket.IO\nsio = socketio.Server(cors_allowed_origins=\n                      {\n                          \"192.168.1.30\",\n                          \"192.168.1.20\",\n                          \"*\"\n                      }\n)\n# Создаем приложение Flask",
+        "detail": "SocketIoCourse.wsserver",
+        "documentation": {}
+    },
+    {
+        "label": "sio",
+        "kind": 5,
+        "importPath": "SocketIoCourse.wsserver",
+        "description": "SocketIoCourse.wsserver",
+        "peekOfCode": "sio = socketio.Server(cors_allowed_origins=\n                      {\n                          \"192.168.1.30\",\n                          \"192.168.1.20\",\n                          \"*\"\n                      }\n)\n# Создаем приложение Flask\napp = Flask(__name__)\n# Подключаем сервер Socket.IO к Flask",
+        "detail": "SocketIoCourse.wsserver",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "SocketIoCourse.wsserver",
+        "description": "SocketIoCourse.wsserver",
+        "peekOfCode": "app = Flask(__name__)\n# Подключаем сервер Socket.IO к Flask\napp.wsgi_app = socketio.WSGIApp(sio, app.wsgi_app)\n# Обработчики событий Socket.IO\n@sio.event\ndef connect(sid, environ):\n    print(f\"Клиент {sid} подключился\")\n    users_counters[sid] = 0\n    time.sleep(2)\n    sio.emit(\"message\", {\"msg\": \"hello message!\"}, to=sid)",
+        "detail": "SocketIoCourse.wsserver",
+        "documentation": {}
+    },
+    {
+        "label": "app.wsgi_app",
+        "kind": 5,
+        "importPath": "SocketIoCourse.wsserver",
+        "description": "SocketIoCourse.wsserver",
+        "peekOfCode": "app.wsgi_app = socketio.WSGIApp(sio, app.wsgi_app)\n# Обработчики событий Socket.IO\n@sio.event\ndef connect(sid, environ):\n    print(f\"Клиент {sid} подключился\")\n    users_counters[sid] = 0\n    time.sleep(2)\n    sio.emit(\"message\", {\"msg\": \"hello message!\"}, to=sid)\n    print('Список пользователей - ', users_counters)\n@sio.event",
+        "detail": "SocketIoCourse.wsserver",
+        "documentation": {}
+    }
+]

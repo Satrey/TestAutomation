@@ -16,6 +16,7 @@ login_list = [
     "performance_glitch_user",
     "error_user",
     "visual_user",
+    " ",
 ]
 login = "standard_user"
 pwd = "secret_sauce"
@@ -51,60 +52,106 @@ class TestAuthPage:
         button_login = wait.until(EC.element_to_be_clickable((By.ID, "login-button")))
         button_login.click()
 
+    # # Проверка входа в магазин по логотипу и URL под разными учётками
+    # def check_auth(self, login):
+    #     wait = WebDriverWait(self.driver, 20)
+    #     match login:
+    #         case "standard_user":
+    #             # Проверка входа в магазин по URL
+    #             assert (
+    #                 self.driver.current_url
+    #                 == "https://www.saucedemo.com/inventory.html"
+    #             ), "Неудача!!! Переход на главную страницу магазина не осуществлен!"
+    #             print(
+    #                 f"Успешно!!! Переход на главную страницу выполнен по адресу {self.driver.current_url}!"
+    #             )
+
+    #             logo_text = wait.until(
+    #                 EC.presence_of_element_located((By.XPATH, '//span[@class="title"]'))
+    #             )
+    #             assert logo_text.text == "Products", (
+    #                 "Неудача!!! Переход на главную страницу магазина не осуществлен!"
+    #             )
+    #             print("Успешно!!! Переход на главную страницу выполнен!")
+
+    #         case "locked_out_user":
+    #             # Проверка входа в магазин по URL
+    #             assert self.driver.current_url == "https://www.saucedemo.com/", (
+    #                 "Неудача!!! Выполнен переход на другую страницу!"
+    #             )
+    #             print(
+    #                 f"Успешно!!! Переход на главную страницу заблокирован {self.driver.current_url}!"
+    #             )
+
+    #             # Проверка присутствия сообщения о блокировке
+    #             alert_box = wait.until(
+    #                 EC.presence_of_element_located(
+    #                     (
+    #                         By.XPATH,
+    #                         '//h3[@ data-test="error"]',
+    #                     )
+    #                 )
+    #             )
+    #             assert (
+    #                 alert_box.text
+    #                 == "Epic sadface: Sorry, this user has been locked out."
+    #             ), "Неудача!!! Переход на главную страницу магазина не осуществлен!"
+    #             print("Успешно!!! Сообщение о блокировке пользователя присутствует!")
+
+    #         case "problem_user":
+    #             pass
+    #         case "performance_glitch_user":
+    #             pass
+    #         case "error_user":
+    #             pass
+    #         case "visual_user":
+    #             pass
+
     # Проверка входа в магазин по логотипу и URL под разными учётками
-    def check_auth(self, login):
+    def check_auth(self):
         wait = WebDriverWait(self.driver, 20)
-        match login:
-            case "standard_user":
-                # Проверка входа в магазин по URL
-                assert (
-                    self.driver.current_url
-                    == "https://www.saucedemo.com/inventory.html"
-                ), "Неудача!!! Переход на главную страницу магазина не осуществлен!"
-                print(
-                    f"Успешно!!! Переход на главную страницу выполнен по адресу {self.driver.current_url}!"
-                )
 
-                logo_text = wait.until(
-                    EC.presence_of_element_located((By.XPATH, '//span[@class="title"]'))
-                )
-                assert logo_text.text == "Products", (
-                    "Неудача!!! Переход на главную страницу магазина не осуществлен!"
-                )
-                print("Успешно!!! Переход на главную страницу выполнен!")
+        if self.driver.current_url == "https://www.saucedemo.com/inventory.html":
+            # Проверка входа в магазин по URL
+            assert (
+                self.driver.current_url == "https://www.saucedemo.com/inventory.html"
+            ), "Неудача!!! Переход на главную страницу магазина не осуществлен!"
+            print(
+                f"Успешно!!! Переход на главную страницу выполнен по адресу {self.driver.current_url}!"
+            )
 
-            case "locked_out_user":
-                # Проверка входа в магазин по URL
-                assert self.driver.current_url == "https://www.saucedemo.com/", (
-                    "Неудача!!! Выполнен переход на другую страницу!"
-                )
-                print(
-                    f"Успешно!!! Переход на главную страницу заблокирован {self.driver.current_url}!"
-                )
+            logo_text = wait.until(
+                EC.presence_of_element_located((By.XPATH, '//span[@class="title"]'))
+            )
+            assert logo_text.text == "Products", (
+                "Неудача!!! Переход на главную страницу магазина не осуществлен!"
+            )
+            print(
+                "Успешно!!! Переход на главную страницу выполнен, присутствует строка 'Products'!"
+            )
 
-                # Проверка присутствия сообщения о блокировке
-                alert_box = wait.until(
-                    EC.presence_of_element_located(
-                        (
-                            By.XPATH,
-                            '//h3[@ data-test="error"]',
-                        )
+        elif self.driver.current_url == "https://www.saucedemo.com/":
+            # Проверка входа в магазин по URL
+            assert self.driver.current_url == "https://www.saucedemo.com/", (
+                "Неудача!!! Выполнен переход на другую страницу!"
+            )
+            print(
+                f"Успешно!!! Переход на главную страницу заблокирован {self.driver.current_url}!"
+            )
+
+            # Проверка присутствия сообщения о блокировке
+            alert_box = wait.until(
+                EC.presence_of_element_located(
+                    (
+                        By.XPATH,
+                        '//h3[@ data-test="error"]',
                     )
                 )
-                assert (
-                    alert_box.text
-                    == "Epic sadface: Sorry, this user has been locked out."
-                ), "Неудача!!! Переход на главную страницу магазина не осуществлен!"
-                print("Успешно!!! Сообщение о блокировке пользователя присутствует!")
-
-            case "problem_user":
-                pass
-            case "performance_glitch_user":
-                pass
-            case "error_user":
-                pass
-            case "visual_user":
-                pass
+            )
+            assert (
+                alert_box.text == "Epic sadface: Sorry, this user has been locked out."
+            ), "Неудача!!! Переход на главную страницу магазина не осуществлен!"
+            print("Успешно!!! Сообщение о блокировке пользователя присутствует!")
 
     # Очистка формы аутентификации пользователя
     def clear_auth_form(self):
@@ -187,7 +234,7 @@ class TestCaseUserAuth:
                 time.sleep(2)
                 test_auth_page.login_market(login, pwd)
                 time.sleep(2)
-                test_auth_page.check_auth(login)
+                test_auth_page.check_auth()
                 time.sleep(2)
                 test_auth_page.log_out()
 
@@ -199,6 +246,3 @@ class TestCaseUserAuth:
 
 test_case_user_auth = TestCaseUserAuth()
 test_case_user_auth.test_start()
-
-# test_case_smoke = TestCaseSmoke()
-# test_case_smoke.test_start()
